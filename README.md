@@ -11,3 +11,4 @@ It includes:
 terraform init
 terraform plan
 terraform apply
+.
